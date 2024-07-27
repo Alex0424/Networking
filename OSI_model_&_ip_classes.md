@@ -1,4 +1,4 @@
-# OSI layers
+# OSI models
 
 | Layer | Name              | # | Info  |
 | ----- | ----------------- | ----- | ----- |
